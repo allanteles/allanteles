@@ -1,6 +1,6 @@
 ## Olá! Seja bem vindo ao meu Github 🇧🇷 <br /> Hi! Welcome to my Github 🇺🇸
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instragram.com/allanteles.s)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instragram.com/allanteles.dev)
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-teles-70257720/)
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=red)](https://play.google.com/store/apps/developer?id=DuallMedia+Corp.&hl=pt_BR&gl=US)
 
